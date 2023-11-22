@@ -1,0 +1,8 @@
+Se nos va a pedir ir a una pagina, investing.com ?, con cualquier direccion de correo
+para bajarnos los datos requeridos para el entregable y las sessiones de este mes
+
+Open (precio ded entrada)
+High-low (precio más bajo y más alto)
+Vol (volumen de cotizacion)
+
+Tendremos que elegir un valor bursatil, 
