@@ -8,7 +8,7 @@ This repository has been created for educational and learning purposes. Its prim
 
 **Please note the following:**
 
-- This project should not be copied, reproduced, or used in whole or in part for commercial, academic, or any other purposes without the express permission of the author.
+- This project should not be copied, reproduced, or used in entire or in part for commercial, academic, or any other purposes without the express permission of the author.
 
 - If you wish to use or adapt parts of this project for your own personal or academic projects, please make sure to provide proper credit to the original author and include a link to this repository.
 
