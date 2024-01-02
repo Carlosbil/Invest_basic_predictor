@@ -1,4 +1,4 @@
-# Microsfot Predictor 
+# Microsoft Predictor 
 
 Basic model for predict Microsoft actions value
 
@@ -10,7 +10,7 @@ This repository has been created for educational and learning purposes. Its prim
 
 - This project should not be copied, reproduced, or used in entire or in part for commercial, academic, or any other purposes without the express permission of the author.
 
-- If you wish to use or adapt parts of this project for your own personal or academic projects, please make sure to provide proper credit to the original author and include a link to this repository.
+- If you wish to use or adapt parts of this project for your own personal or academic projects, write an email to carlosbilbao2@gmail.com and please make sure to provide proper credit to the original author and include a link to this repository.
 
 - The responsibility for any misuse or violation of the terms of use rests with the user.
 
